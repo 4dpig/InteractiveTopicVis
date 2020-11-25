@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="corpus" uuid="c551beb9-6936-4bd7-8a62-ae7c2f4def21">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:E:\Python Projects\InteractiveTopicVis\resource\sqlite\corpus.db</jdbc-url>
+    </data-source>
+  </component>
+</project>
